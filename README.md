@@ -7,6 +7,6 @@ On GitHub, I've dabbled in:
 - system administration
 - software development
 
-I'm a big fan of goats! My favorite breeds include the [Nigerian Dwarf](https://en.wikipedia.org/wiki/Nigerian_Dwarf_goat) and the [American Pygmy](https://en.wikipedia.org/wiki/American_Pygmy).
+I'm a big fan of goats! My favorite breeds include the [Nigerian Dwarf](https://en.wikipedia.org/wiki/Nigerian_Dwarf_goat) and the [American Pygmy](https://en.wikipedia.org/wiki/American_Pygmy). This is shockingly relevant to my online dev work.
 
 Check out [flipbrooke.com](https://flipbrooke.com) to see more of me! Or snoop through my public repos on here!
