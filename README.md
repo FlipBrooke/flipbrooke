@@ -1,7 +1,7 @@
 ## Hello! 🐐
 I'm Brooke! I'm a computer science student and creator of internet-related things. 
 
-On GitHub, I've dabbled in:
+On the internet I dabbled in:
 - video game development and modding
 - fullstack webdev
 - system administration
