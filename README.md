@@ -3,9 +3,10 @@ I'm Brooke! I'm a computer science student and creator of internet-related thing
 
 On the internet I dabbled in:
 - video game development and modding
-- fullstack webdev
-- system administration
+- webdev
+- homelabbing and small-scale SAAS
 - software development
+- sometimes I also make art
 
 I'm a big fan of goats! My favorite breeds include the [Nigerian Dwarf](https://en.wikipedia.org/wiki/Nigerian_Dwarf_goat) and the [American Pygmy](https://en.wikipedia.org/wiki/American_Pygmy). This is shockingly relevant to my online dev work.
 
